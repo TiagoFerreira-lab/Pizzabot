@@ -1,0 +1,17 @@
+{
+  "name": "pizzabot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "api/webhook.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node api/webhook.js"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "axios": "^1.6.3",
+    "dotenv": "^16.3.1"
+  }
+}

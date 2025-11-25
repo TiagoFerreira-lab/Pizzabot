@@ -1,0 +1,405 @@
+{
+  "sizes": [
+    "Pequena",
+    "M\u00e9dia",
+    "Familiar",
+    "Gigante"
+  ],
+  "pizzas_fixed": [
+    {
+      "name": "CBB",
+      "prices": [
+        9.0,
+        14.0,
+        18.5,
+        28.0
+      ]
+    },
+    {
+      "name": "Havaiana",
+      "prices": [
+        9.5,
+        14.5,
+        19.5,
+        29.0
+      ]
+    },
+    {
+      "name": "Di\u00c1vola",
+      "prices": [
+        9.0,
+        14.0,
+        18.5,
+        28.0
+      ]
+    },
+    {
+      "name": "BraAi",
+      "prices": [
+        9.5,
+        14.5,
+        19.5,
+        29.0
+      ]
+    },
+    {
+      "name": "Transalpina",
+      "prices": [
+        9.5,
+        14.5,
+        19.5,
+        29.0
+      ]
+    },
+    {
+      "name": "Romana",
+      "prices": [
+        9.5,
+        14.5,
+        19.5,
+        29.0
+      ]
+    },
+    {
+      "name": "Carnes",
+      "prices": [
+        9.5,
+        14.5,
+        19.5,
+        29.0
+      ]
+    },
+    {
+      "name": "Primavera",
+      "prices": [
+        9.0,
+        14.0,
+        18.5,
+        28.0
+      ]
+    },
+    {
+      "name": "Nata",
+      "prices": [
+        10.5,
+        15.0,
+        20.5,
+        30.0
+      ]
+    },
+    {
+      "name": "Milaneza",
+      "prices": [
+        9.0,
+        14.0,
+        18.5,
+        28.0
+      ]
+    },
+    {
+      "name": "Algarve",
+      "prices": [
+        9.5,
+        14.5,
+        19.5,
+        29.0
+      ]
+    },
+    {
+      "name": "Camponesa",
+      "prices": [
+        9.5,
+        14.5,
+        19.5,
+        29.0
+      ]
+    },
+    {
+      "name": "Das Indias",
+      "prices": [
+        9.5,
+        14.5,
+        19.5,
+        29.0
+      ]
+    },
+    {
+      "name": "Alem\u00e3",
+      "prices": [
+        10.5,
+        15.0,
+        20.5,
+        30.0
+      ]
+    },
+    {
+      "name": "Jovem",
+      "prices": [
+        9.5,
+        14.5,
+        19.5,
+        29.0
+      ]
+    },
+    {
+      "name": "Mourisca",
+      "prices": [
+        9.0,
+        14.0,
+        18.5,
+        28.0
+      ]
+    },
+    {
+      "name": "Crocante",
+      "prices": [
+        9.5,
+        14.5,
+        19.5,
+        29.0
+      ]
+    },
+    {
+      "name": "Atum",
+      "prices": [
+        9.0,
+        14.0,
+        18.5,
+        28.0
+      ]
+    },
+    {
+      "name": "Tr\u00eas Queijos",
+      "prices": [
+        9.0,
+        14.0,
+        18.5,
+        28.0
+      ]
+    },
+    {
+      "name": "Vegetariana",
+      "prices": [
+        9.5,
+        14.5,
+        19.5,
+        29.0
+      ]
+    },
+    {
+      "name": "Tropical",
+      "prices": [
+        9.0,
+        14.0,
+        18.5,
+        28.0
+      ]
+    },
+    {
+      "name": "Marisco",
+      "prices": [
+        9.5,
+        14.5,
+        19.5,
+        29.0
+      ]
+    },
+    {
+      "name": "Picante",
+      "prices": [
+        10.5,
+        15.0,
+        20.5,
+        30.0
+      ]
+    },
+    {
+      "name": "Serrana",
+      "prices": [
+        10.5,
+        15.0,
+        20.5,
+        30.0
+      ]
+    },
+    {
+      "name": "Suprema",
+      "prices": [
+        10.5,
+        15.0,
+        20.5,
+        30.0
+      ]
+    },
+    {
+      "name": "Toscana",
+      "prices": [
+        10.5,
+        15.0,
+        20.5,
+        30.0
+      ]
+    }
+  ],
+  "pao_de_alho": [
+    {
+      "name": "Simples",
+      "price": 1.5
+    },
+    {
+      "name": "Queijo gratinado",
+      "price": 2.2
+    },
+    {
+      "name": "Farinheira",
+      "price": 2.5
+    },
+    {
+      "name": "Queijo+Chouri\u00e7o",
+      "price": 2.7
+    },
+    {
+      "name": "Queijo+Bacon",
+      "price": 2.7
+    },
+    {
+      "name": "Queijo+Fiambre",
+      "price": 2.7
+    }
+  ],
+  "bebidas": [
+    {
+      "name": "\u00c1gua 0.5l",
+      "price": 1.2
+    },
+    {
+      "name": "\u00c1gua 1.5l",
+      "price": 1.7
+    },
+    {
+      "name": "Frutea lata 33cl",
+      "price": 1.7
+    },
+    {
+      "name": "Frisumo lata 33cl",
+      "price": 1.7
+    },
+    {
+      "name": "Guaran\u00e1 lata 33cl",
+      "price": 1.7
+    },
+    {
+      "name": "Pepsi 33cl",
+      "price": 1.7
+    },
+    {
+      "name": "Pepsi 1l",
+      "price": 2.2
+    },
+    {
+      "name": "Ice Tea 1l",
+      "price": 2.2
+    }
+  ],
+  "sobremesas": [
+    {
+      "name": "Baba de caramelo",
+      "price": 2.7
+    },
+    {
+      "name": "Doce d'Av\u00f3",
+      "price": 2.7
+    },
+    {
+      "name": "Mousse de chocolate",
+      "price": 2.7
+    }
+  ],
+  "custom_pizzas": {
+    "prices": {
+      "Pequena": {
+        "0": 6.5,
+        "1": 7.5,
+        "2": 8.5,
+        "3": 9.5,
+        "4": 10.0,
+        "per_ingredient": 1.0
+      },
+      "M\u00e9dia": {
+        "0": 10.0,
+        "1": 12.0,
+        "2": 13.0,
+        "3": 14.5,
+        "4": 15.0,
+        "per_ingredient": 2.0
+      },
+      "Familiar": {
+        "0": 15.5,
+        "1": 17.5,
+        "2": 18.5,
+        "3": 19.0,
+        "4": 20.0,
+        "per_ingredient": 2.5
+      },
+      "Gigante": {
+        "0": 23.0,
+        "1": 24.0,
+        "2": 27.0,
+        "3": 29.0,
+        "4": 30.0,
+        "per_ingredient": 3.5
+      }
+    },
+    "categories": {
+      "Vegetais": [
+        "Alho",
+        "Azeitonas",
+        "Br\u00f3culos",
+        "Cebola",
+        "Courgettes",
+        "Cogumelos Frescos",
+        "Milho",
+        "Pimentos",
+        "Tomate Fatiado"
+      ],
+      "Carnes": [
+        "Alheira",
+        "Bacon",
+        "Carne Picada",
+        "Chouri\u00e7o",
+        "Farinheira",
+        "Fiambre",
+        "Frango",
+        "Presunto",
+        "Pepperoni",
+        "Pepperoni Picante",
+        "Salame",
+        "Salpic\u00e3o",
+        "Salsicha"
+      ],
+      "Frutos": [
+        "Am\u00eandoa",
+        "Anan\u00e1s",
+        "Banana",
+        "P\u00eassego"
+      ],
+      "DoMar": [
+        "Atum",
+        "Camar\u00e3o",
+        "Del\u00edcias do Mar",
+        "Lulas"
+      ],
+      "Outros": [
+        "Caril",
+        "Ovo",
+        "Ovo Cozido",
+        "Batata-Palha"
+      ],
+      "Molhos": [
+        "Mostarda",
+        "BBQ",
+        "Natas"
+      ]
+    }
+  }
+}
