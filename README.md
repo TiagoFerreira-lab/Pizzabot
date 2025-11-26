@@ -26,7 +26,7 @@ Deploy recomendado: **Vercel** (Functions).
    ```
 
 ## Deploy no Vercel
-1. Cria repo GitHub `TiagoFerreira-lab/Pizzabot` e faz push.
+1. GitHub `TiagoFerreira-lab/Pizzabot` e faz push.
 2. No Vercel: Import project from GitHub.
 3. Configura Environment Variables no Vercel:
    - WHATSAPP_TOKEN
