@@ -7,7 +7,7 @@
     "start": "node api/webhook.js"
   },
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   },
   "dependencies": {
     "axios": "^1.6.3",
