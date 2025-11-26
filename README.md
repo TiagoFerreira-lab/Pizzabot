@@ -30,8 +30,8 @@ Deploy recomendado: **Vercel** (Functions).
 2. No Vercel: Import project from GitHub.
 3. Configura Environment Variables no Vercel:
    - WHATSAPP_TOKEN
-   - WHATSAPP_VERIFY_TOKEN (ex: meu_token_secreto_2025)
-   - PHONE_NUMBER_ID (ex: 906758749184774)
+   - WHATSAPP_VERIFY_TOKEN 
+   - PHONE_NUMBER_ID 
 4. Deploy. Define Callback URL na Meta:
    `https://<your-vercel-project>.vercel.app/api/webhook`
 
